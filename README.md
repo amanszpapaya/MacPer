@@ -20,4 +20,4 @@ NOTE: This study was inspired by the study of rootos by Aiden Holland (thehappyd
 pip3 install -r requirements.txt
 ```
 ## Usage
-![Screenshot](Screen Shot 2021-08-09 at 15.26.03.png)
+![alt text](https://github.com/amanszpapaya/MacPer/blob/main/demo.png)
