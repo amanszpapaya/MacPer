@@ -1,5 +1,5 @@
 # MacPer
-A python based tool that executes various CVEs to gain root privileges on various MAC OS platforms. Not all of the exploits directly spawns a root shell some of them executes commands as root and stores results in various locations. 
+A python based tool that executes various CVEs to gain root privileges as root on various MAC OS platforms. Not all of the exploits directly spawns a root shell some of them executes commands as root and stores results in various locations. 
 
 NOTE: This study was inspired by the study of rootos by Aiden Holland (thehappydinoa). 
 
