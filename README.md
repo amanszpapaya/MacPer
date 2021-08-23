@@ -3,6 +3,8 @@ A python based tool that executes various CVEs to gain root privileges as root o
 
 NOTE: This study was inspired by the study of rootos by Aiden Holland (thehappydinoa). 
 
+***NOTE: All exploits in this tool aims to work as o PoC.Anyone can modify exploits as one wishes.***
+
 
 ## CVE LIST
 
